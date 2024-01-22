@@ -1,0 +1,8 @@
+int num1 = 10;
+int num2 = 20;
+int sum = num1 + num2;
+
+System.out.println("The sum is: " + sum); // Output: The sum is: 30
+
+double average = (double) sum / 2; // Calculating average using the sum
+System.out.println("The average is: " + average); // Output: The average is: 15.0
